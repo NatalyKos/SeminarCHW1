@@ -17,4 +17,4 @@ if(numberC > max)
 {
     max = numberC;
 }
-Console.WriteLine(max);
+Console.WriteLine("max = " + max);
